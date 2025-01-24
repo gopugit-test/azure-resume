@@ -1,2 +1,2 @@
-# azure-resume
-azure resume
+# azure-r
+azure r
